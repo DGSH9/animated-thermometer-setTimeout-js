@@ -1,0 +1,13 @@
+*{
+    background-color: darkslategray;
+}
+.main-container{
+    border: 5px solid blueviolet;
+    width: 70%;
+    margin: 10%;
+    height: 50vh;   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
